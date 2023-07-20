@@ -1,10 +1,9 @@
 import React from 'react'
-import './resume.scss'
 
-const 'Resume' = () => {
+const Download = () => {
   return (
-    <div>'Download'</div>
+    <div>Download</div>
   )
 }
 
-export default 'Resume'
+export default Download
